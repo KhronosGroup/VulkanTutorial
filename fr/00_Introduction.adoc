@@ -47,13 +47,6 @@ Il existe aussi une https://github.com/bwasty/vulkan-tutorial-rs[version alterna
 Pour faciliter la tâche des développeurs utilisant d'autres langages de programmation, et pour acquérir de l'expérience avec l'API de base, nous allons utiliser l'API C originelle pour travailler avec Vulkan.
 Cependant, si vous utilisez le C{pp}, vous pourrez préférer utiliser le binding https://github.com/KhronosGroup/Vulkan-Hpp[Vulkan-Hpp] plus récent, qui permet de s'éloigner de certains détails ennuyeux et d'éviter certains types d'erreurs.
 
-== E-book
-
-Si vous préférez lire ce tutoriel en E-book, vous pouvez en télécharger une version EPUB ou PDF ici:
-
-* https://vulkan-tutorial.com/resources/vulkan_tutorial_fr.epub[EPUB]
-* https://vulkan-tutorial.com/resources/vulkan_tutorial_fr.pdf[PDF]
-
 == Structure du tutoriel
 
 Nous allons commencer par une approche générale du fonctionnement de Vulkan, et verrons d'abord rapidement le travail à effectuer pour afficher un premier triangle à l'écran.

@@ -39,13 +39,6 @@ There are also two alternative versions of this tutorial available for Rust deve
 To make it easier to follow along for developers using other programming languages, and to get some experience with the base API we'll be using the original C API to work with Vulkan.
 If you are using C{pp}, however, you may prefer using the newer https://github.com/KhronosGroup/Vulkan-Hpp[Vulkan-Hpp] bindings that abstract some of the dirty work and help prevent certain classes of errors.
 
-== E-book
-
-If you prefer to read this tutorial as an e-book, then you can download an EPUB or PDF version here:
-
-* https://vulkan-tutorial.com/resources/vulkan_tutorial_en.epub[EPUB]
-* https://vulkan-tutorial.com/resources/vulkan_tutorial_en.pdf[PDF]
-
 == Tutorial structure
 
 We'll start with an overview of how Vulkan works and the work we'll have to do to get the first triangle on the screen.
