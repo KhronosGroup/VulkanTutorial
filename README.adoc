@@ -8,24 +8,6 @@ Use issues and pull requests to provide feedback related to the website.
 If you have a problem with your code, then use the comments section in the related chapter to ask a question.
 Please provide your operating system, graphics card, driver version, source code, expected behaviour and actual behaviour.
 
-== E-book
-
-This guide is now available in e-book formats as well:
-
-* EPUB (https://vulkan-tutorial.com/resources/vulkan_tutorial_en.epub[English], https://vulkan-tutorial.com/resources/vulkan_tutorial_fr.epub[French])
-* PDF (https://vulkan-tutorial.com/resources/vulkan_tutorial_en.pdf[English], https://vulkan-tutorial.com/resources/vulkan_tutorial_fr.pdf[French])
-
-The e-book can be built from the existing content by running:
-
-  python3 build_ebook.py
-
-This script depends on the following utilities being available on the path:
-
-* `inkscape`: SVG to PNG conversion (tested with version 1.0.2)
-* `pandoc`: Building a PDF and EPUB from the Markdown code (tested with version 2.13)
-
-You also need to install a LaTeX distribution for PDF generation.
-
 == Changing code across chapters
 
 It is sometimes necessary to change code that is reused across many chapters, for example a function like `createBuffer`.
