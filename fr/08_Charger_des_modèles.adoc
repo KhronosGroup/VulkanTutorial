@@ -303,4 +303,4 @@ Vous devriez pouvoir compiler et lancer le programme maintenant.
 Si vous regardez la taille de `vertices` vous verrez qu'elle est passée d'un million et demi vertices à seulement 265645!
 Les vertices sont utilisés pour six triangles en moyenne, ce qui représente une optimisation conséquente.
 
-link:/code/27_model_loading.cpp[Code C{pp}] / link:/code/26_shader_depth.vert[Vertex shader] / link:/code/26_shader_depth.frag[Fragment shader]
+link:/attachments/27_model_loading.cpp[Code C{pp}] / link:/attachments/26_shader_depth.vert[Vertex shader] / link:/attachments/26_shader_depth.frag[Fragment shader]

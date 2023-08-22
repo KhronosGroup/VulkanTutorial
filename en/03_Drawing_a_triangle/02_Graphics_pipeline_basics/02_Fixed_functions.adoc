@@ -402,4 +402,4 @@ This reduces the chance of running into unexpected behavior because the default 
 
 There is however one more object to create before we can finally create the graphics pipeline and that is a link:!en/Drawing_a_triangle/Graphics_pipeline_basics/Render_passes[render pass].
 
-link:/code/10_fixed_functions.cpp[C{pp} code] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/10_fixed_functions.cpp[C{pp} code] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

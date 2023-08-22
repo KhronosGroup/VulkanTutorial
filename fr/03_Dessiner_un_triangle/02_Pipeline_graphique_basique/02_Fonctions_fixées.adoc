@@ -375,4 +375,4 @@ Leur configuration représente un gros travail mais nous sommes au courant de to
 Il reste cependant encore un objet à créer avant du finaliser la pipeline graphique.
 Cet objet s'appelle link:!fr/Dessiner_un_triangle/Pipeline_graphique_basique/Render_pass[passe de rendu].
 
-link:/code/10_fixed_functions.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/10_fixed_functions.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

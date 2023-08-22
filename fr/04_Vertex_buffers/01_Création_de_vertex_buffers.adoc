@@ -325,4 +325,4 @@ image::/images/triangle_white.png[]
 Dans le prochain chapitre nous verrons une autre manière de copier les données vers un buffer.
 Elle est plus performante mais nécessite plus de travail.
 
-link:/code/18_vertex_buffer.cpp[Code C{pp}] / link:/code/17_shader_vertexbuffer.vert[Vertex shader] / link:/code/17_shader_vertexbuffer.frag[Fragment shader]
+link:/attachments/18_vertex_buffer.cpp[Code C{pp}] / link:/attachments/17_shader_vertexbuffer.vert[Vertex shader] / link:/attachments/17_shader_vertexbuffer.frag[Fragment shader]

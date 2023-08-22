@@ -449,4 +449,4 @@ image::/images/highmipmaps.png[]
 
 This is how higher mip levels will be used when objects are further away from the camera.
 
-link:/code/29_mipmapping.cpp[C{pp} code] / link:/code/27_shader_depth.vert[Vertex shader] / link:/code/27_shader_depth.frag[Fragment shader]
+link:/attachments/29_mipmapping.cpp[C{pp} code] / link:/attachments/27_shader_depth.vert[Vertex shader] / link:/attachments/27_shader_depth.frag[Fragment shader]

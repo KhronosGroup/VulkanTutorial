@@ -453,4 +453,4 @@ However, for the remainder of this tutorial I'll assume that you're using the de
 Throughout this tutorial I'll be making a couple of intentional mistakes to show you how helpful the validation layers are with catching them and to teach you how important it is to know exactly what you're doing with Vulkan.
 Now it's time to look at link:!en/Drawing_a_triangle/Setup/Physical_devices_and_queue_families[Vulkan devices in the system].
 
-link:/code/02_validation_layers.cpp[C{pp} code]
+link:/attachments/02_validation_layers.cpp[C{pp} code]

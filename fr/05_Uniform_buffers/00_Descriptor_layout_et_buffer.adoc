@@ -412,4 +412,4 @@ Une meilleure pratique consiste à utiliser les _push constants_, que nous abord
 
 Dans un avenir plus proche nous allons lier les sets de descripteurs au `VkBuffer` contenant les données des matrices, afin que le vertex shader puisse y avoir accès.
 
-link:/code/21_descriptor_layout.cpp[Code C{pp}] / link:/code/21_shader_ubo.vert[Vertex shader] / link:/code/21_shader_ubo.frag[Fragment shader]
+link:/attachments/21_descriptor_layout.cpp[Code C{pp}] / link:/attachments/21_shader_ubo.vert[Vertex shader] / link:/attachments/21_shader_ubo.frag[Fragment shader]

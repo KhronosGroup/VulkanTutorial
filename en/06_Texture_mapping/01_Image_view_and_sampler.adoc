@@ -351,4 +351,4 @@ samplerInfo.maxAnisotropy = 1.0f;
 
 In the next chapter we will expose the image and sampler objects to the shaders to draw the texture onto the square.
 
-link:/code/25_sampler.cpp[C{pp} code] / link:/code/22_shader_ubo.vert[Vertex shader] / link:/code/22_shader_ubo.frag[Fragment shader]
+link:/attachments/25_sampler.cpp[C{pp} code] / link:/attachments/22_shader_ubo.vert[Vertex shader] / link:/attachments/22_shader_ubo.frag[Fragment shader]

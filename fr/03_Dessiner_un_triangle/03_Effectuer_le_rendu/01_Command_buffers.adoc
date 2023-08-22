@@ -284,4 +284,4 @@ if (vkEndCommandBuffer(commandBuffers[i]) != VK_SUCCESS) {
 Dans le prochain chapitre nous écrirons le code pour la boucle principale.
 Elle récupérera une image de la swap chain, exécutera le bon command buffer et retournera l'image complète à la swap chain.
 
-link:/code/14_command_buffers.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/14_command_buffers.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

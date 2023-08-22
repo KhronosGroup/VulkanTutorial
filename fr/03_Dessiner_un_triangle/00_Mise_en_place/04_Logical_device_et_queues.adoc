@@ -166,4 +166,4 @@ vkGetDeviceQueue(device, indices.graphicsFamily.value(), 0, &graphicsQueue);
 Avec le logical device et les queues nous allons maintenant pouvoir faire travailler la carte graphique!
 Dans le  prochain chapitre nous mettrons en place les ressources nécessaires à la présentation des images à l'écran.
 
-link:/code/04_logical_device.cpp[Code C{pp}]
+link:/attachments/04_logical_device.cpp[Code C{pp}]

@@ -280,4 +280,4 @@ L'appel initial à `glfwGetFramebufferSize` prend en charge le cas où la taille
 Félicitations, vous avez codé un programme fonctionnel avec Vulkan!
 Dans le prochain chapitre nous allons supprimer les sommets du vertex shader et mettre en place un vertex buffer.
 
-link:/code/16_swap_chain_recreation.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/16_swap_chain_recreation.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

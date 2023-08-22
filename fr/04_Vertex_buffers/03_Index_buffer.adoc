@@ -156,4 +156,4 @@ Cela simplifie la mise des données dans des caches car elles sont regroupées e
 Il devient même possible d'utiliser la même mémoire pour plusieurs ressources si elles ne sont pas utilisées en même temps et si elles sont proprement mises à jour.
 Cette pratique s'appelle d'ailleurs _aliasing_, et certaines fonctions Vulkan possèdent un paramètre qui permet au développeur d'indiquer s'il veut utiliser la technique.
 
-link:/code/20_index_buffer.cpp[Code C{pp}] / link:/code/17_shader_vertexbuffer.vert[Vertex shader] / link:/code/17_shader_vertexbuffer.frag[Fragment shader]
+link:/attachments/20_index_buffer.cpp[Code C{pp}] / link:/attachments/17_shader_vertexbuffer.vert[Vertex shader] / link:/attachments/17_shader_vertexbuffer.frag[Fragment shader]

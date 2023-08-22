@@ -346,4 +346,4 @@ The knowledge of the basic principles of Vulkan that you now possess should be s
 The current program can be extended in many ways, like adding Blinn-Phong lighting, post-processing effects and shadow mapping.
 You should be able to learn how these effects work from tutorials for other APIs, because despite Vulkan's explicitness, many concepts still work the same.
 
-link:/code/30_multisampling.cpp[C{pp} code] / link:/code/27_shader_depth.vert[Vertex shader] / link:/code/27_shader_depth.frag[Fragment shader]
+link:/attachments/30_multisampling.cpp[C{pp} code] / link:/attachments/27_shader_depth.vert[Vertex shader] / link:/attachments/27_shader_depth.frag[Fragment shader]

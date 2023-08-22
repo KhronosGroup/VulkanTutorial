@@ -552,4 +552,4 @@ swapChainExtent = extent;
 Nous avons maintenant un ensemble d'images sur lesquelles nous pouvons travailler et qui peuvent être présentées pour être affichées.
 Dans le prochain chapitre nous verrons comment utiliser ces images comme des cibles de rendu, puis nous verrons le pipeline graphique et les commandes d'affichage!
 
-link:/code/06_swap_chain_creation.cpp[Code C{pp}]
+link:/attachments/06_swap_chain_creation.cpp[Code C{pp}]

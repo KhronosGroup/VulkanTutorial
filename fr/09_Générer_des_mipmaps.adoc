@@ -445,4 +445,4 @@ Ce paramètre produira ce rendu :
 
 image::/images/highmipmaps.png[]
 
-link:/code/28_mipmapping.cpp[Code C{pp}] / link:/code/26_shader_depth.vert[Vertex shader] / link:/code/26_shader_depth.frag[Fragment shader]
+link:/attachments/28_mipmapping.cpp[Code C{pp}] / link:/attachments/26_shader_depth.vert[Vertex shader] / link:/attachments/26_shader_depth.frag[Fragment shader]

@@ -72,4 +72,4 @@ void createGraphicsPipeline() {
 }
 ----
 
-link:/code/08_graphics_pipeline.cpp[C{pp} code]
+link:/attachments/08_graphics_pipeline.cpp[C{pp} code]

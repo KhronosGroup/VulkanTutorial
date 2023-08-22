@@ -574,4 +574,4 @@ void cleanupSwapChain() {
 Votre application est maintenant capable de rendre correctement de la géométrie 3D!
 Nous allons utiliser cette fonctionnalité pour afficher un modèle dans le prohain chapitre.
 
-link:/code/26_depth_buffering.cpp[Code C{pp}] / link:/code/26_shader_depth.vert[Vertex shader] / link:/code/26_shader_depth.frag[Fragment shader]
+link:/attachments/26_depth_buffering.cpp[Code C{pp}] / link:/attachments/26_shader_depth.vert[Vertex shader] / link:/attachments/26_shader_depth.frag[Fragment shader]

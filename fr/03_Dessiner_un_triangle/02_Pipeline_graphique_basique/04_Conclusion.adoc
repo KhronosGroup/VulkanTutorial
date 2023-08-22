@@ -103,4 +103,4 @@ Exécutez votre programme pour vérifier que tout ce travail a enfin résulté d
 Nous sommes de plus en plus proches d'avoir un dessin à l'écran!
 Dans les prochains chapitres nous générerons les  framebuffers à partir des images de la swap chain et préparerons les commandes d'affichage.
 
-link:/code/12_graphics_pipeline_complete.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/12_graphics_pipeline_complete.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

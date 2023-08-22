@@ -428,4 +428,4 @@ layout(set = 0, binding = 0) uniform UniformBufferObject { ... }
 Vous pouvez utiliser cette possibilité pour placer dans différents sets les descripteurs dépendant d'objets et les descripteurs partagés.
 De cette manière vous éviter de relier constemment une partie des descripteurs, ce qui peut être plus performant.
 
-link:/code/22_descriptor_sets.cpp[Code C{pp}] / link:/code/21_shader_ubo.vert[Vertex shader] / link:/code/21_shader_ubo.frag[Fragment shader]
+link:/attachments/22_descriptor_sets.cpp[Code C{pp}] / link:/attachments/21_shader_ubo.vert[Vertex shader] / link:/attachments/21_shader_ubo.frag[Fragment shader]

@@ -522,4 +522,4 @@ We'll be building on top of that knowledge to extend the functionality of the pr
 
 The next chapter will expand the render loop to handle multiple frames in flight.
 
-link:/code/15_hello_triangle.cpp[C{pp} code] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/15_hello_triangle.cpp[C{pp} code] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

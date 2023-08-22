@@ -341,4 +341,4 @@ Ces connaissances vous permettent maintenant d'explorer d'autres fonctionnalité
 Le programme actuel peut être grandement étendu, par exemple en ajoutant l'éclairage Blinn-Phong, des effets en post-processing et du shadow mapping.
 Vous devriez pouvoir apprendre ces techniques depuis des tutoriels conçus pour d'autres APIs, car la plupart des concepts sont applicables à Vulkan.
 
-link:/code/29_multisampling.cpp[Code C{pp}] / link:/code/26_shader_depth.vert[Vertex shader] / link:/code/26_shader_depth.frag[Fragment shader]
+link:/attachments/29_multisampling.cpp[Code C{pp}] / link:/attachments/26_shader_depth.vert[Vertex shader] / link:/attachments/26_shader_depth.frag[Fragment shader]

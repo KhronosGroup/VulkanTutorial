@@ -629,4 +629,4 @@ Nous allons maintenant construire sur ces acquis pour étendre les fonctionnalit
 
 Dans le prochain chapitre nous allons voir une autre petite chose nécessaire à tout bon programme Vulkan.
 
-link:/code/15_hello_triangle.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/15_hello_triangle.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

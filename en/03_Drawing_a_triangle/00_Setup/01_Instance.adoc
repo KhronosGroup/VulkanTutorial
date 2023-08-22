@@ -207,4 +207,4 @@ All of the other Vulkan resources that we'll create in the following chapters sh
 
 Before continuing with the more complex steps after instance creation, it's time to evaluate our debugging options by checking out link:!en/Drawing_a_triangle/Setup/Validation_layers[validation layers].
 
-link:/code/01_instance_creation.cpp[C{pp} code]
+link:/attachments/01_instance_creation.cpp[C{pp} code]

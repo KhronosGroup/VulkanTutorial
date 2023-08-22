@@ -221,4 +221,4 @@ La pipeline peut maintenant accepter les données des vertices dans le format qu
 Si vous lancez le programme vous verrez que les validation layers rapportent qu'aucun vertex buffer n'est mis en place.
 Nous allons donc créer un vertex buffer et y placer les données pour que le GPU puisse les utiliser.
 
-link:/code/17_vertex_input.cpp[Code C{pp}] / link:/code/17_shader_vertexbuffer.vert[Vertex shader] / link:/code/17_shader_vertexbuffer.frag[Fragment shader]
+link:/attachments/17_vertex_input.cpp[Code C{pp}] / link:/attachments/17_shader_vertexbuffer.vert[Vertex shader] / link:/attachments/17_shader_vertexbuffer.frag[Fragment shader]

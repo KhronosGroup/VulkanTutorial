@@ -338,4 +338,4 @@ samplerInfo.maxAnisotropy = 1.0f;
 
 Dans le prochain chapitre nous exposerons l'image et le sampler au fragment shader pour qu'il puisse utiliser la texture sur le carré.
 
-link:/code/24_sampler.cpp[C{pp} code] / link:/code/21_shader_ubo.vert[Vertex shader] / link:/code/21_shader_ubo.frag[Fragment shader]
+link:/attachments/24_sampler.cpp[C{pp} code] / link:/attachments/21_shader_ubo.vert[Vertex shader] / link:/attachments/21_shader_ubo.frag[Fragment shader]

@@ -207,4 +207,4 @@ vkGetDeviceQueue(device, indices.presentFamily.value(), 0, &presentQueue);
 Si les queues sont les mêmes, les variables contenant les références contiennent la même valeur.
 Dans le prochain chapitre nous nous intéresserons aux swap chain, et verrons comment elle permet de présenter les rendus à l'écran.
 
-link:/code/05_window_surface.cpp[Code C{pp}]
+link:/attachments/05_window_surface.cpp[Code C{pp}]

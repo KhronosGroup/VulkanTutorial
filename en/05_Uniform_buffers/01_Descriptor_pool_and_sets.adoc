@@ -399,4 +399,4 @@ layout(set = 0, binding = 0) uniform UniformBufferObject { ... }
 You can use this feature to put descriptors that vary per-object and descriptors that are shared into separate descriptor sets.
 In that case you avoid rebinding most of the descriptors across draw calls which is potentially more efficient.
 
-link:/code/23_descriptor_sets.cpp[C{pp} code] / link:/code/22_shader_ubo.vert[Vertex shader] / link:/code/22_shader_ubo.frag[Fragment shader]
+link:/attachments/23_descriptor_sets.cpp[C{pp} code] / link:/attachments/22_shader_ubo.vert[Vertex shader] / link:/attachments/22_shader_ubo.frag[Fragment shader]

@@ -350,4 +350,4 @@ for (const auto& queueFamily : queueFamilies) {
 Great, that's all we need for now to find the right physical device!
 The next step is to link:!en/Drawing_a_triangle/Setup/Logical_device_and_queues[create a logical device] to interface with it.
 
-link:/code/03_physical_device_selection.cpp[C{pp} code]
+link:/attachments/03_physical_device_selection.cpp[C{pp} code]

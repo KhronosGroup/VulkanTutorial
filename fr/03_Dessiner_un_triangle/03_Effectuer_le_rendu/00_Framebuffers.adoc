@@ -101,4 +101,4 @@ void cleanup() {
 Nous avons atteint le moment où tous les objets sont prêts pour l'affichage.
 Dans le prochain chapitre nous allons écrire les commandes d'affichage.
 
-link:/code/13_framebuffers.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/13_framebuffers.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

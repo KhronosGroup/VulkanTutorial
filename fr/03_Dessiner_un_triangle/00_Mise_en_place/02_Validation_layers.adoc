@@ -448,4 +448,4 @@ Cependant, pour le reste du tutoriel, je partirai du principe que vous les avez 
 Tout au long du tutoriel je laisserai de petites erreurs intentionnelles pour vous montrer à quel point les validation layers sont pratiques, et à quel point vous devez comprendre tout ce que vous faites avec Vulkan.
 Il est maintenant temps de s'intéresser aux link:!fr/Dessiner_un_triangle/Mise_en_place/Physical_devices_et_queue_families[devices Vulkan dans le système].
 
-link:/code/02_validation_layers.cpp[Code C{pp}]
+link:/attachments/02_validation_layers.cpp[Code C{pp}]

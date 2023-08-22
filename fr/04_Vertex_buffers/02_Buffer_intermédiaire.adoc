@@ -237,4 +237,4 @@ Il est même préférable d'utiliser un buffer pour plusieurs types de données 
 Vous pouvez implémenter votre propre solution, ou bien utiliser la librairie https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator[VulkanMemoryAllocator] crée par GPUOpen.
 Pour ce tutoriel, ne vous inquiétez pas pour cela car nous n'atteindrons pas cette limite.
 
-link:/code/19_staging_buffer.cpp[Code C{pp}] / link:/code/17_shader_vertexbuffer.vert[Vertex shader] / link:/code/17_shader_vertexbuffer.frag[Fragment shader]
+link:/attachments/19_staging_buffer.cpp[Code C{pp}] / link:/attachments/17_shader_vertexbuffer.vert[Vertex shader] / link:/attachments/17_shader_vertexbuffer.frag[Fragment shader]

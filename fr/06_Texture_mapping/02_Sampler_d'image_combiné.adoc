@@ -269,4 +269,4 @@ Nous pouvons désormais utiliser des textures dans notre programme!
 Cette technique est extrêmement puissante et permet beaucoup plus que juste afficher des couleurs.
 Vous pouvez même utiliser les images de la swap chain comme textures et y appliquer des effets post-processing.
 
-link:/code/25_texture_mapping.cpp[Code C{pp}] / link:/code/25_shader_textures.vert[Vertex shader] / link:/code/25_shader_textures.frag[Fragment shader]
+link:/attachments/25_texture_mapping.cpp[Code C{pp}] / link:/attachments/25_shader_textures.vert[Vertex shader] / link:/attachments/25_shader_textures.frag[Fragment shader]

@@ -126,4 +126,4 @@ Une image view est suffisante pour commencer à utiliser une image comme une tex
 Pour cela nous avons encore une étape, appelée framebuffer.
 Mais nous devons  d'abord mettre en place le pipeline graphique.
 
-link:/code/07_image_views.cpp[Code C{pp}]
+link:/attachments/07_image_views.cpp[Code C{pp}]

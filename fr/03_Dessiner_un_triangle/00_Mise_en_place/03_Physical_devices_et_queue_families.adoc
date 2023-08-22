@@ -355,4 +355,4 @@ for (const auto& queueFamily : queueFamilies) {
 Bien, c'est tout ce dont nous aurons besoin pour choisir le bon physical device!
 La prochaine étape est de link:!fr/Dessiner_un_triangle/Mise_en_place/Logical_device_et_queues[créer un logical device] pour créer une interface avec la carte.
 
-link:/code/03_physical_device_selection.cpp[Code C{pp}]
+link:/attachments/03_physical_device_selection.cpp[Code C{pp}]

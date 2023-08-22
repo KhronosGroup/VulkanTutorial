@@ -97,4 +97,4 @@ void cleanup() {
 We've now reached the milestone where we have all of the objects that are required for rendering.
 In the next chapter we're going to write the first actual drawing commands.
 
-link:/code/13_framebuffers.cpp[C{pp} code] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/13_framebuffers.cpp[C{pp} code] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]

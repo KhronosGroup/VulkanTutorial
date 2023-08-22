@@ -191,4 +191,4 @@ void cleanup() {
 
 Nous avons eu beaucoup de travail, mais nous allons enfin créer la pipeline graphique et l'utiliser dès le prochain  chapitre!
 
-link:/code/11_render_passes.cpp[Code C{pp}] / link:/code/09_shader_base.vert[Vertex shader] / link:/code/09_shader_base.frag[Fragment shader]
+link:/attachments/11_render_passes.cpp[Code C{pp}] / link:/attachments/09_shader_base.vert[Vertex shader] / link:/attachments/09_shader_base.frag[Fragment shader]
