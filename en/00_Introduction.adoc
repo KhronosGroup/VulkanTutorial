@@ -84,4 +84,4 @@ If you encounter any problems while following the tutorial, then first check the
 If you are still stuck after that, then feel free to ask for help in the comment section of the closest related chapter.
 
 Ready to dive into the future of high performance graphics APIs?
-link:!en/Overview[Let's go!]
+xref:01_Overview.adoc[Let's go!]

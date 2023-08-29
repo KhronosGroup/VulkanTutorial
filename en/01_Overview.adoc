@@ -197,4 +197,4 @@ You also need to register a callback function to receive debug messages from the
 
 Because Vulkan is so explicit about every operation and the validation layers are so extensive, it can actually be a lot easier to find out why your screen is black compared to OpenGL and Direct3D!
 
-There's only one more step before we'll start writing code and that's link:!en/Development_environment[setting up the development environment].
+There's only one more step before we'll start writing code and that's xref:02_Development_environment.adoc[setting up the development environment].
