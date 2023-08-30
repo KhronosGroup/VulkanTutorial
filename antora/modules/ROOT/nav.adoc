@@ -3,7 +3,6 @@
 - SPDX-License-Identifier: CC-BY-SA-4.0
 ////
 
-* xref:index.adoc[Khronos Vulkan Tutorial]
 * xref:00_Introduction.adoc[Introduction]
 * xref:01_Overview.adoc[Overview]
 * xref:02_Development_environment.adoc[Development environment]

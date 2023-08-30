@@ -1,5 +1,11 @@
 :pp: {plus}{plus}
 
+= Khronos Vulkan^®^ Tutorial
+
+== Attribution
+
+The Khronos Vulkan^®^ Tutorial is based on the "link:https://vulkan-tutorial.com/[Vulkan Tutorial]" by Alexander Overvoorde licensed under link:https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0].
+
 == About
 
 This tutorial will teach you the basics of using the https://www.khronos.org/vulkan/[Vulkan] graphics and compute API.
@@ -38,6 +44,10 @@ There are also two alternative versions of this tutorial available for Rust deve
 
 To make it easier to follow along for developers using other programming languages, and to get some experience with the base API we'll be using the original C API to work with Vulkan.
 If you are using C{pp}, however, you may prefer using the newer https://github.com/KhronosGroup/Vulkan-Hpp[Vulkan-Hpp] bindings that abstract some of the dirty work and help prevent certain classes of errors.
+
+== License
+
+The contents of this repository are licensed as link:https://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0], unless stated otherwise. By contributing to this repository, you agree to license your contributions to the public under that same license.
 
 == Tutorial structure
 
